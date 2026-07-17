@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+.textcenter{
+    text-align:center;
+}
+
+.bgcolordarkolive {
+  background: #3D4732;
+}
+
+.padding1{
+    padding:1px;
+}
+
+.textcolor {
+  color: #D8C8B4;
+}
